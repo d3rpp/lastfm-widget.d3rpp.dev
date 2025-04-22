@@ -27,7 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"dompurify": "^3.1.5",
+		"dompurify": "^3.2.4",
 		"md5": "^2.3.0",
 		"zod": "^3.23.8"
 	}
